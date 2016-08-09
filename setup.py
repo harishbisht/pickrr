@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pickrr',
-      version='0.1',
+      version='0.2',
       description='Pickrr order placing, order cancellation and order tracking api',
       url='http://github.com/harishbisht/pickrr',
       author='Harish Bisht',
