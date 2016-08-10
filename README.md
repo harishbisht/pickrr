@@ -1,5 +1,4 @@
 [![PyPI version](https://badge.fury.io/py/pickrr.svg)](https://badge.fury.io/py/pickrr)
-
 [![Build Status](https://api.travis-ci.org/repositories/harishbisht/pickrr.png)]()
 
 # Pickrr Python API
