@@ -6,3 +6,34 @@
 
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
+
+*.so
+*.pyc
+
+*.egg
+*.egg-info
+/dist
+/build
+eggs
+sdist
+develop-eggs
+.installed.cfg
+/lib
+/lib64
+
+.project
+.pydevproject
+.settings
+
+*.sqlite
+
+
+/ROADMAP
+/build
+
+/virtualenv
+/env
+
+*~
+
+.pypirc
