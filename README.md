@@ -7,7 +7,6 @@
 
 ```sh
 $ pip install pickrr
-$ pip install requests
 ```
 
 ### How to use
