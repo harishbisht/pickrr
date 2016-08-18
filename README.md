@@ -1,15 +1,5 @@
-
-.. image:: https://badge.fury.io/py/pickrr.svg
-    :target: https://badge.fury.io/py/pickrr
-    
-.. image:: https://api.travis-ci.org/harishbisht/pickrr.svg?branch=master
-    :target: https://travis-ci.org/harishbisht/pickrr
-
-
-:Author: Harish Bihst
-:Maintainer: Python Pickrr Developer
-:License: BSD
-:Status: Stable
+[![PyPI version](https://badge.fury.io/py/pickrr.svg)](https://badge.fury.io/py/pickrr)
+[![Build Status](https://api.travis-ci.org/harishbisht/pickrr.svg?branch=master)](https://api.travis-ci.org/harishbisht/pickrr.svg?branch=master)
 
 
 # Pickrr Python API
