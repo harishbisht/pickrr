@@ -2,6 +2,15 @@
 [![Build Status](https://api.travis-ci.org/harishbisht/pickrr.svg?branch=master)](https://api.travis-ci.org/harishbisht/pickrr.svg?branch=master)
 
 
+| Pickrr     | Python Package |
+| :---: |:---:|
+| Author     | Harish Bisht|
+| Maintainer |Python Pickrr Developer|
+|License | BSD|
+|Status|Stable|
+
+
+
 # Pickrr Python API
 ### Installation
 
