@@ -26,7 +26,7 @@ $ Session.setup("94539823sd342d5453224")
 ```
 
 
-For placing order
+For placing order:
 
 ```sh
 $ from pickrr.placeorder import PlaceOrder
@@ -34,7 +34,7 @@ $ PlaceOrder.placeorder(item_name,from_name,from_phone_number,from_pincode,from_
 ```
 for prepaid pass cod_amount=0.0, and order_id and client_other_id are optional
 
-EXAMPLE
+EXAMPLE:
 ```sh
 $ from pickrr.placeorder import PlaceOrder
 $ PlaceOrder.placeorder(item_name = "ITEM NAME",from_name = "NAME",from_phone_number = "9999999999",from_pincode = "110023",from_address= "FULL ADDRESS",to_name = "TO NAME",to_phone_number ="9898989898",to_pincode = "110045",to_address = "TO ADDRESS",cod_amount = "123",client_order_id = "345345",client_other_id = "32")
@@ -45,7 +45,7 @@ RETURN:
 {"pickrr_phone_number": "+91-9818197991", "err": null, "order_id": "109124", "to_notify": false, "order_from_city": "NEW DELHI", "item_name": "test", "user_email": "harish@pickrr.com", "tracking_id": "90410810064184", "pickrr_name": "Sahil Goyal", "order_pk": 108100, "order_service_used": "Standard", "order_to_city": "NEW DELHI"}
 ```
 
-For Cancel the order
+For Cancel the order:
 
 ```sh
 $ from pickrr.cancelorder import CancelOrder
@@ -64,7 +64,7 @@ RETURN:
 $ {"err": null}
 ```
 
-For order tracking
+For order tracking:
 
 ```sh
 $ from pickrr.trackorder import TrackOrder
